@@ -20,7 +20,7 @@ install the dependencies:
 pip install pyopengl pygame
 ```
 
->[NOTE]
+>[!Important]
 >
 > If you are in debian, you may notice wich 
 > pip or python3 package installation may be
@@ -69,9 +69,7 @@ Well, it depends of the operating system and i prefer to left it to yourself, ba
 ## I want to change the model
 You can change the 3d model of the widget replacing the kube.obj file in the assets folder for your preferred model with the same file name
 
->[IMPORTANT]
+>[!Caution]
 >
 > - The model must have triangular faces
 > - Export the model with its correspondient normals
->
-> Enjoy
