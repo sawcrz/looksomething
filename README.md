@@ -7,7 +7,7 @@ as the backend
 ## Linux usage
 copy the repository:
 ```
-git clone 
+git clone https://github.com/SlowArmoredWarrior/looksomething.git
 ```
 
 change the current directory:
